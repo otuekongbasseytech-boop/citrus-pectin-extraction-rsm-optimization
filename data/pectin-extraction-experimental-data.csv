@@ -1,0 +1,45 @@
+TABLE 1: Pectin Yield (%) from Citrus sinensis (Sweet Orange) Peels — Citric-Acid Hydrolysis (2 h)
+pH,50 °C,60 °C,70 °C,80 °C
+1.5,8.46,12.57,19.75,7.32
+2.5,15.37,20.87,26.80,20.03
+3.0,18.09,21.69,29.59,23.96
+3.5,15.45,21.12,27.17,21.05
+4.0,7.69,13.51,19.76,11.87
+4.2,3.97,9.85,16.19,7.44
+
+TABLE 2: Pectin Yield (%) from Citrus limetta (Sweet Lime) Peels — Citric-Acid Hydrolysis (2 h)
+pH,50 °C,60 °C,70 °C,80 °C
+1.5,8.63,14.06,24.28,6.84
+2.5,14.52,23.30,30.73,12.97
+3.0,18.04,27.78,32.94,16.39
+3.5,16.38,24.99,29.54,14.71
+4.0,9.51,15.09,20.84,7.33
+4.2,6.12,10.26,6.71,3.70
+
+TABLE 3: Pectin Yield (%) from Citrus limon (Lemon) Peels — Citric-Acid Hydrolysis (2 h)
+pH,50 °C,60 °C,70 °C,80 °C
+1.5,20.58,30.37,20.01,11.52
+2.5,23.88,35.88,26.43,8.65
+3.0,26.59,36.93,28.95,7.93
+3.5,27.66,35.54,29.77,6.81
+4.0,26.90,32.08,29.06,5.15
+4.2,26.38,30.44,28.59,4.43
+
+TABLE 4: Box–Behnken RSM Optimization Outcomes — Species-Specific Operating Points and Predicted Yields (MATLAB R2007b)
+Species,Optimum pH,Optimum T (°C),Predicted Yield (%),R²
+C. sinensis,2.81,67.49,27.21,0.8927
+C. limetta,2.77,65.16,30.27,0.8311
+C. limon,3.22,60.63,34.98,0.9618
+
+TABLE 5: Qualitative and Quantitative Physicochemical Characterization of Pectin Recovered from Three Citrus Species — Benchmarked Against Commercial Citrus Pectin (Kaya et al. 2014)
+Parameter,C. sinensis,C. limetta,C. limon,Commercial (Kaya et al. 2014)
+Colour,Light brown,Yellow,Yellow,Brownish
+Cold-water solubility,Suspension,Insoluble,Soluble,Slight suspension on shaking
+Hot-water solubility (85–90 °C),Dissolves,Dissolves,Dissolves,Dissolves
+Cold-alkali solubility,Yellow precipitate,Yellow precipitate,Yellow precipitate,Yellow precipitate
+Hot-alkali solubility,Dissolves milky,Dissolves,Dissolves,Dissolves milky
+Equivalent weight,594.86,386.46,253.70,503.80
+Methoxyl content (%),6.82,4.47,2.35,6.798
+Moisture content (%),58.74,75.77,82.71,—
+AUA content (%),68.70,42.82,39.48,68.90
+Degree of esterification (%),3.50,3.00,1.50,3.58

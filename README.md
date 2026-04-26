@@ -15,7 +15,7 @@ Using **citric-acid hydrolysis** and **Box–Behnken Response Surface Methodolog
 ---
 
 ## 🖼️ 3D Yield Surfaces of Citrus Species
-![Pectin Extraction Process](./figures/pectin-process.png)
+![Pectin Extraction Process](./citrus-yield-BBD-surfaces-pH-temp.png)
 
 ## 🖼️ Process & Optimization Visuals
 

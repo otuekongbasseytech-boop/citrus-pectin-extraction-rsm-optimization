@@ -14,9 +14,6 @@ Using **citric-acid hydrolysis** and **Box–Behnken Response Surface Methodolog
 
 ---
 
-## 🖼️ 3D Yield Surfaces of Citrus Species
-![Process](./citrus-yield-BBD-surfaces-pH-temp.png)
-
 ## 🖼️ Process & Optimization Visuals
 
 ### Contour Projection
@@ -29,6 +26,8 @@ Using **citric-acid hydrolysis** and **Box–Behnken Response Surface Methodolog
 ![RSM Surface](./figures/rsm-surface-plot-citrus-limetta.png)
 ![RSM Surface](./figures/rsm-surface-plot-citrus-limon.png)
 ---
+### 🖼️ 3D Yield Surfaces of Citrus Species
+![Process](./figures/citrus-yield-BBD-surfaces-pH-temp.png)
 
 ## ⚡ Quick Insights (1-Minute Read)
 

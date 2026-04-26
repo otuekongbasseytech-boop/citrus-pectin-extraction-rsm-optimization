@@ -66,8 +66,7 @@ Using **citric-acid hydrolysis** and **Box–Behnken Response Surface Methodolog
 🔗 (https://doi.org/10.5281/zenodo.19781987) 
 📌 DOI: 10.5281/zenodo.19781987
 
-📥 **[Download Full Paper](./paper/pectin-extraction-rsm.pdf)**  
-
+ **[Download Full Paper](./paper/citrus-pectin-rsm-optimization.pdf)**
 ---
 
 ## 📂 Repository Structure

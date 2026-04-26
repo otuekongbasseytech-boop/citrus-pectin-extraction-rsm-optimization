@@ -14,9 +14,20 @@ Using **citric-acid hydrolysis** and **Box–Behnken Response Surface Methodolog
 
 ---
 
-## 🖼️ Process Overview
+## 🖼️ 3D Yield Surfaces of Citrus Species
 ![Pectin Extraction Process](./figures/pectin-process.png)
 
+## 🖼️ Process & Optimization Visuals
+
+### Contour Projection
+![Process](./figures/contour-plot-pectin-yield-citrus-sinensis.png)
+![Process](./figures/contour-plot-pectin-yield-citrus-limetta.png)
+![Process](./figures/contour-plot-pectin-yield-citrus-limon.png)
+
+### Response Surface Model
+![RSM Surface](./figures/rsm-surface-plot-citrus-sinensis.png)
+![RSM Surface](./figures/rsm-surface-plot-citrus-limetta.png)
+![RSM Surface](./figures/rsm-surface-plot-citrus-limon.png)
 ---
 
 ## ⚡ Quick Insights (1-Minute Read)

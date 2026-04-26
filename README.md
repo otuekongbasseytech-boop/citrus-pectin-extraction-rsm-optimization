@@ -13,6 +13,58 @@ Citrus peel waste represents a high-volume, underutilized resource with signific
 Using **citric-acid hydrolysis** and **Box–Behnken Response Surface Methodology (RSM)**, the work models, optimizes, and characterizes pectin yield and quality.
 
 ---
+## 📊 Data & Experimental Results
+
+This study is supported by structured experimental datasets and tabulated results used for modelling, comparison, and optimization of pectin extraction from citrus peels.
+
+### 📂 Dataset Files
+- pectin-extraction-experimental-data.csv  
+- pectin-extraction-experimental-data.xlsx  
+
+---
+
+## 📑 Summary of Tables
+
+The study includes five key analytical tables:
+
+- **Table 1:** Pectin yield (%) from *Citrus sinensis* (sweet orange) peels at varied pH and extraction temperature (citric-acid hydrolysis, 2 h)
+
+- **Table 2:** Pectin yield (%) from *Citrus limetta* (sweet lime) peels at varied pH and extraction temperature (citric-acid hydrolysis, 2 h)
+
+- **Table 3:** Pectin yield (%) from *Citrus limon* (lemon) peels at varied pH and extraction temperature (citric-acid hydrolysis, 2 h)
+
+- **Table 4:** Box–Behnken RSM optimization outcomes — species-specific operating points and predicted yields (MATLAB R2007b)
+
+- **Table 5:** Physicochemical characterization of extracted pectin across all Citrus species, benchmarked against commercial citrus pectin (Kaya et al., 2014)
+
+---
+
+## 🧠 Optimization Method Overview (RSM)
+
+The study employs **Response Surface Methodology (RSM)** combined with **Box–Behnken design** to optimize pectin extraction conditions.
+
+### Workflow:
+
+1. **Experimental Design**
+   - Structured combinations of pH and temperature are generated using Box–Behnken design
+
+2. **Data Collection**
+   - Yield responses are recorded for each experimental condition across three Citrus species
+
+3. **Model Development**
+   - A quadratic regression model is fitted using MATLAB R2007b
+
+4. **Response Surface Generation**
+   - The model visualizes how extraction variables influence yield
+
+5. **Optimization**
+   - Mathematical optimization identifies best operating conditions for maximum yield
+
+6. **Validation**
+   - Predicted values are compared with experimental outputs to assess model accuracy
+
+### Outcome:
+RSM enables efficient multi-variable optimization with reduced experimental load while maintaining strong predictive reliability.
 
 ## 🖼️ Process & Optimization Visuals
 

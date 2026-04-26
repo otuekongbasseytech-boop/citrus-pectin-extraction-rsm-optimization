@@ -71,3 +71,31 @@ Using **citric-acid hydrolysis** and **Box–Behnken Response Surface Methodolog
 ---
 
 ## 📂 Repository Structure
+/paper → Published journal paper (PDF)
+/figures → Process diagrams and response surface plots
+
+
+---
+
+## 🧪 Methods
+- Citric-acid hydrolytic extraction  
+- One-factor-at-a-time (OFAT) screening  
+- Box–Behnken experimental design  
+- Quadratic model fitting (MATLAB R2007b)  
+
+---
+
+## 🏷️ Keywords
+Pectin, Citrus Waste, RSM, Box-Behnken, Bioprocess Optimization, Sustainable Materials
+
+---
+
+## 👤 Author
+Otuekong Edet Bassey
+
+---
+
+## 📜 License
+Refer to Zenodo publication terms for reuse and citation.
+
+## 📂 Repository Structure
